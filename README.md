@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+[![Edit jparasha/next-scss-enzyme-boilerplate](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/jparasha/next-scss-enzyme-boilerplate/tree/master/?fontsize=14&hidenavigation=1&theme=dark)
+
 ## Getting Started
 
 First, run the development server:
