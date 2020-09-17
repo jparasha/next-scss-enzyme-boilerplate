@@ -1,5 +1,6 @@
 {
-  "name": "jparasha-next-template-fork",
+  "name": "next-scss-jest-template",
+  "author": "jparasha",
   "version": "0.1.0",
   "private": false,
   "scripts": {
