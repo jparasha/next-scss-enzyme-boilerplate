@@ -24,7 +24,7 @@
     "enzyme-adapter-react-16": "^1.15.5",
     "jest": "^26.6.1",
     "react-addons-test-utils": "^15.6.2",
-    "react-test-renderer": "^16.13.1",
+    "react-test-renderer": "^16.14.0",
     "identity-obj-proxy": "3.0.0"
   },
   "keywords": ["next", "next-scss-template", "next-jest-template"]
