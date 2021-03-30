@@ -12,7 +12,7 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
-    "next": "^10.0.4",
+    "next": "^10.1.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "sass": "1.28.0"
